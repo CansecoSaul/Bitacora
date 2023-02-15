@@ -1,0 +1,65 @@
+html{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color:rgb(254, 254, 254);
+}
+
+h1{
+    background-color: rgb(73, 116, 138);
+    display: inline-block;
+    padding: 7px 15px;
+    box-sizing: border-box;
+    border-radius: 50em;
+    border: 4px solid rgb(35, 66, 81)
+
+}
+
+h4{
+    background-color: rgb(99, 147, 171);
+    display: inline-block;
+    padding: 6px 10px;
+    box-sizing: border-box;
+    border-radius: 50em;
+    margin-left: 0%;
+    border: 4px solid rgb(50, 81, 96);
+}
+
+.imagen_html{
+    float: right;
+    border-radius: 30px; 
+}
+
+.imagen_github{
+    float: right;
+    padding: 6px 10px;
+    box-sizing: border-box;
+    border-radius: 30px;
+    border: 1px solid black;
+    background: white;
+}
+
+.imagen_css{
+    float: right;
+    border-radius: 30px; 
+   
+}
+
+.imagen_bitacora{
+    width: 760px;
+    float: right;
+    border-radius: 30px; 
+}
+
+
+.github{
+    margin-left: 0%;
+}
+
+
+
+b{
+    color:rgb(37, 62, 145) ;
+}
+
